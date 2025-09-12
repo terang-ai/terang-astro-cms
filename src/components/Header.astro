@@ -1,0 +1,59 @@
+---
+import { SITE_TITLE } from '../consts';
+---
+
+<header>
+	<nav>
+		<a href="/" class="logo-link">
+			<img src="https://cdn.terang.ai/images/logo/logo-terang-ai.svg" alt={SITE_TITLE} class="logo" />
+			<span class="blog-text">Blog</span>
+		</a>
+	</nav>
+</header>
+<style>
+	header {
+		margin: 0;
+		padding: 1em;
+		background: white;
+		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+	}
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: flex-start;
+		min-height: 2.5em;
+	}
+	.logo-link {
+		display: flex;
+		align-items: center;
+		text-decoration: none;
+		gap: 0.5em;
+		color: inherit;
+	}
+	.logo-link:hover {
+		text-decoration: none;
+	}
+	.logo {
+		height: 2.5em;
+		width: auto;
+	}
+	.blog-text {
+		font-size: 1.5em;
+		font-weight: 600;
+		color: rgb(var(--black));
+		padding-top: 0.3em;
+	}
+	nav a.active {
+		text-decoration: none;
+		border-bottom-color: var(--accent);
+	}
+	.social-links,
+	.social-links a {
+		display: flex;
+	}
+	@media (max-width: 720px) {
+		.social-links {
+			display: none;
+		}
+	}
+</style>
