@@ -23,8 +23,8 @@ Kompetisi Inovasi Industri Negara BRICS 2025 mengusung tema **"Unleashing BRICS 
 
 Tim founder Terang AI yang berhasil meraih Excellence Award terdiri dari:
 - **Muhamad Fahriza Novriansyah** - CEO
-- **Alfian Firmansyah** - CTO  
-- **Syahrul Hidayat** - CPO
+- **Alfian Firmansyah** - CPO  
+- **Syahrul Hidayat** - CTO
 
 Tim ini mempresentasikan proyek unggulan mereka dengan judul **"Terang.AI: Democratizing Access to an AI-Driven Learning Ecosystem for Everyone's Success"**.
 
