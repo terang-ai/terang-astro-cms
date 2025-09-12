@@ -2,16 +2,16 @@
 title: 'Terang AI Raih Excellence Award di BRICS Innovation Competition 2025'
 description: 'Tim Terang AI berhasil meraih Excellence Award dalam kompetisi inovasi BRICS 2025 dengan platform AI pembelajaran yang demokratis dan inklusif'
 pubDate: 'Sep 12 2025'
-heroImage: '../../assets/terang-ai-brics.png'
+heroImage: 'https://blog.terang.ai/assets/terang-ai-brics.png'
 ---
 
 ## Prestasi Membanggakan di Panggung Internasional
 
-![BRICS Innovation Competition](../../assets/terang-brics.png)
+![BRICS Innovation Competition](https://blog.terang.ai/assets/terang-brics.png)
 
 **Jakarta, 12 September 2025** - PT Terang Inovasi Indonesia (Terang AI) berhasil meraih **Excellence Award** dalam Kompetisi Inovasi Industri Negara BRICS 2025 (BRICS Innovation Competition 2025) yang diselenggarakan di Universitas Podomoro Jakarta pada 12 September 2025. Prestasi ini membuktikan komitmen Terang AI dalam menghadirkan inovasi teknologi pendidikan yang berdampak global.
 
-![BRICS Competition 1](../../assets/brics-1.png)
+![BRICS Competition 1](https://blog.terang.ai/assets/brics-1.png)
 
 ### Kompetisi Bergengsi Tingkat Internasional
 
@@ -19,7 +19,7 @@ Kompetisi Inovasi Industri Negara BRICS 2025 mengusung tema **"Unleashing BRICS 
 
 ### Tim Founder Terang AI
 
-![BRICS Competition 2](../../assets/brics-2.png)
+![BRICS Competition 2](https://blog.terang.ai/assets/brics-2.png)
 
 Tim founder Terang AI yang berhasil meraih Excellence Award terdiri dari:
 - **Muhamad Fahriza Novriansyah** - CEO
@@ -28,7 +28,7 @@ Tim founder Terang AI yang berhasil meraih Excellence Award terdiri dari:
 
 Tim ini mempresentasikan proyek unggulan mereka dengan judul **"Terang.AI: Democratizing Access to an AI-Driven Learning Ecosystem for Everyone's Success"**.
 
-![Foto BRICS](../../assets/foto-brics.jpeg)
+![Foto BRICS](https://blog.terang.ai/assets/foto-brics.jpeg)
 
 ### Inovasi yang Mendemokratisasi Pendidikan
 

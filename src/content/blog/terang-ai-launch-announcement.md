@@ -2,7 +2,7 @@
 title: 'Terang AI: Platform AI Terdepan untuk Persiapan Ujian dan Wawancara di Indonesia'
 description: 'Terang AI menghadirkan solusi pembelajaran berbasis AI untuk persiapan CPNS, UTBK, beasiswa, dan wawancara kerja dengan teknologi adaptif dan feedback real-time'
 pubDate: 'Oct 28 2024'
-heroImage: '../../assets/terang-ai.png'
+heroImage: 'https://blog.terang.ai/assets/terang-ai.png'
 ---
 
 ## Memperkenalkan Terang AI
