@@ -55,9 +55,11 @@ Sebagai pemenang Excellence Award, tim Terang AI meraih **penghargaan unggulan**
 
 Penghargaan ini merupakan pengakuan terhadap kontribusi signifikan Terang AI dalam mengembangkan ekosistem pembelajaran berbasis AI yang dapat diakses oleh semua kalangan.
 
-### Sertifikat Resmi dalam Proses Finalisasi
+### Sertifikat Excellence Award Resmi Diterima
 
-Sertifikat Excellence Award saat ini dalam tahap finalisasi oleh **Kementerian Perindustrian dan Teknologi Informasi Tiongkok (MIIT)** sebagai badan penyelenggara resmi. Sesuai protokol standar kompetisi internasional, penyerahan sertifikat akan dilakukan setelah seluruh proses verifikasi dan validasi administratif diselesaikan.
+![BRICS Excellence Award Certificate](https://blog.terang.ai/assets/brics-cert.jpeg)
+
+Tim Terang AI telah resmi menerima sertifikat Excellence Award dari **Organizing Committee of the BRICS Industrial Innovation Contest 2025**. Sertifikat yang diterbitkan pada 20 Agustus 2025 ini mengakui pencapaian luar biasa tim dalam mengembangkan platform **"Democratizing Access to an AI-Driven Learning Ecosystem for Everyone's Success"** dengan anggota tim Muhammad Fahriza Novriansyah, Alfian Firmansyah, dan Syahrul Hidayat.
 
 ### Komitmen untuk Pendidikan Indonesia
 
