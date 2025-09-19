@@ -57,7 +57,7 @@ Penghargaan ini merupakan pengakuan terhadap kontribusi signifikan Terang AI dal
 
 ### Sertifikat Excellence Award Resmi Diterima
 
-![BRICS Excellence Award Certificate](https://blog.terang.ai/assets/brics-cert.jpeg)
+![BRICS Excellence Award Certificate](https://blog.terang.ai/assets/brics-cert.jpg)
 
 Tim Terang AI telah resmi menerima sertifikat Excellence Award dari **Organizing Committee of the BRICS Industrial Innovation Contest 2025**. Sertifikat yang diterbitkan pada 20 Agustus 2025 ini mengakui pencapaian luar biasa tim dalam mengembangkan platform **"Democratizing Access to an AI-Driven Learning Ecosystem for Everyone's Success"** dengan anggota tim Muhammad Fahriza Novriansyah, Alfian Firmansyah, dan Syahrul Hidayat.
 
