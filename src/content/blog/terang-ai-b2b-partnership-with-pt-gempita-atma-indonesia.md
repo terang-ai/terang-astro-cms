@@ -41,13 +41,14 @@ MoU ini menandai langkah penting bagi kedua belah pihak dalam memperkuat sinergi
 
 ## Tentang Terang AI
 
-Terang AI (PT Terang Inovasi Indonesia) adalah perusahaan rintisan teknologi pendidikan yang mengembangkan platform persiapan ujian dan wawancara berbasis AI. Dengan visi untuk mendemokratisasi akses pendidikan dengan AI, Terang AI telah melayani ribuan pengguna individu, klien B2B, serta menjalin kolaborasi strategis dengan berbagai mitra nasional maupun internasional.
 
 <div align="center">
 
 <img src="https://cdn.terang.ai/images/logo/logo-terang-ai.svg" alt="PT Terang Inovasi Indonesia" width="200">
 
 </div>
+
+Terang AI (PT Terang Inovasi Indonesia) adalah perusahaan rintisan teknologi pendidikan yang mengembangkan platform persiapan ujian dan wawancara berbasis AI. Dengan visi untuk mendemokratisasi akses pendidikan dengan AI, Terang AI telah melayani ribuan pengguna individu, klien B2B, serta menjalin kolaborasi strategis dengan berbagai mitra nasional maupun internasional.
 
 ## Tentang PT Gempita Atma Indonesia
 
