@@ -2,7 +2,7 @@
 title: 'Terang AI Hadir Sebagai Pembicara di NAMA Summit 2025 untuk Dorong Akses Pendidikan Inklusif Berbasis AI'
 description: 'Terang AI menjadi pembicara di NAMA Summit 2025, mendorong akses pendidikan inklusif berbasis AI di Indonesia dan kawasan Asia Tenggara.'
 pubDate: 'Oct 22 2025'
-heroImage: 'https://blog.terang.ai/assets/terang-ai-nama-summit-4.png'
+heroImage: 'https://blog.terang.ai/assets/terang-ai-nama-summit-main.jpeg'
 tags: ['NAMA Summit', 'Education Technology', 'AI Learning', 'Inclusive Education', 'Indonesia', 'Jakarta', 'Artificial Intelligence', 'EdTech', 'Speaking Engagement']
 keywords: 'NAMA Summit 2025, Terang AI, AI pembelajaran, pendidikan inklusif, teknologi pendidikan, artificial intelligence, EdTech Indonesia, NAMA Foundation, inclusive education, accessible learning'
 author: 'Terang AI Team'
@@ -18,11 +18,10 @@ twitterDescription: 'Indonesian AI education startup Terang AI shares insights o
 ## Pembicara di Forum Pendidikan Internasional
 
 <div align="center">
-  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-2025.png" alt="Terang AI NAMA Summit 2025" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
-  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-1.png" alt="Terang AI NAMA Summit Presentation" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
-  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-2.png" alt="Terang AI CEO Presentation" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
-  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-3.png" alt="NAMA Summit Forum Discussion" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
-  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-4.png" alt="NAMA Summit Panel" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-main.jpeg" alt="Terang AI NAMA Summit 2025" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-presentation.jpeg" alt="Terang AI NAMA Summit Presentation" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-forum.jpeg" alt="NAMA Summit Forum Discussion" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-panel.jpeg" alt="NAMA Summit Panel" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
 </div>
 
 **Jakarta, Oktober 2025** — PT Terang Inovasi Indonesia (Terang AI), perusahaan rintisan teknologi pendidikan berbasis kecerdasan buatan (AI) yang berkomitmen untuk memperluas akses pembelajaran bagi seluruh lapisan masyarakat, menjadi salah satu pembicara pada **NAMA Summit 2025** yang diselenggarakan oleh NAMA Foundation di Ra Suites Simatupang, South Jakarta, pada 19 Oktober 2025.
