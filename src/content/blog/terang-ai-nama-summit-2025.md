@@ -17,17 +17,19 @@ twitterDescription: 'Indonesian AI education startup Terang AI shares insights o
 
 ## Pembicara di Forum Pendidikan Internasional
 
-![Terang AI NAMA Summit 2025](https://blog.terang.ai/assets/terang-ai-nama-summit-2025.png)
+<div align="center">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-2025.png" alt="Terang AI NAMA Summit 2025" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-1.png" alt="Terang AI NAMA Summit Presentation" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-2.png" alt="Terang AI CEO Presentation" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-3.png" alt="NAMA Summit Forum Discussion" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+  <img src="https://blog.terang.ai/assets/terang-ai-nama-summit-4.png" alt="NAMA Summit Panel" style="max-width: 600px; height: 400px; object-fit: cover; border-radius: 8px; margin: 10px;">
+</div>
 
 **Jakarta, Oktober 2025** — PT Terang Inovasi Indonesia (Terang AI), perusahaan rintisan teknologi pendidikan berbasis kecerdasan buatan (AI) yang berkomitmen untuk memperluas akses pembelajaran bagi seluruh lapisan masyarakat, menjadi salah satu pembicara pada **NAMA Summit 2025** yang diselenggarakan oleh NAMA Foundation di Ra Suites Simatupang, South Jakarta, pada 19 Oktober 2025.
-
-![Terang AI NAMA Summit Presentation](https://blog.terang.ai/assets/terang-ai-nama-summit-1.png)
 
 ### Forum Internasional Pendidikan Inklusif
 
 Forum internasional ini mengusung tema **"Breaking Barriers: Expanding Access to Quality Education for All"** dan mempertemukan pemimpin pendidikan, lembaga beasiswa, universitas, organisasi pemuda, sektor swasta, dan penggerak sosial dari berbagai negara untuk membahas solusi nyata dalam mewujudkan akses pendidikan yang inklusif dan berkeadilan.
-
-![Terang AI CEO Presentation](https://blog.terang.ai/assets/terang-ai-nama-summit-2.png)
 
 ### Sesi "Bridging the Gap" dengan Teknologi AI
 
@@ -45,13 +47,9 @@ Dalam presentasinya, Terang AI juga membagikan lima pelajaran utama dari perjala
 4. **Accessibility over perfection** – Solusi sederhana yang bisa diakses semua orang lebih berarti daripada produk sempurna yang sulit dijangkau.
 5. **Sustainability matters** – Model bisnis hybrid antara komersial dan program sosial menjaga keberlanjutan dampak.
 
-![NAMA Summit Forum Discussion](https://blog.terang.ai/assets/terang-ai-nama-summit-3.png)
-
 ### Visi Teknologi yang Meaningful
 
 "Teknologi bisa menjadi sangat powerful, tetapi yang membuatnya benar-benar meaningful adalah manusia yang memberinya tujuan. Melalui Terang AI, kami ingin memastikan bahwa setiap pelajar—di manapun mereka berada—memiliki kesempatan yang sama untuk meraih masa depan yang lebih cerah," ujar Fahriza.
-
-![NAMA Summit Panel](https://blog.terang.ai/assets/terang-ai-nama-summit-4.png)
 
 ### Momentum Penting untuk EdTech Indonesia
 
