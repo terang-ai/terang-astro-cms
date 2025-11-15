@@ -66,7 +66,7 @@ Terang AI (PT Terang Inovasi Indonesia) adalah perusahaan rintisan teknologi pen
 
 </div>
 
-Ikatan Arsitek Indonesia (IAI) adalah organisasi profesi arsitek yang didirikan pada tahun 1959. IAI memiliki misi untuk mengembangkan profesi arsitektur di Indonesia, meningkatkan kualitas arsitek, dan berkontribusi dalam pembangunan lingkungan binaan yang berkelanjutan. Dengan lebih dari 15.000 anggota di seluruh Indonesia, IAI terus berinovasi dalam memberikan pembinaan dan pengembangan keprofesian yang berkualitas.
+Ikatan Arsitek Indonesia (IAI) adalah organisasi profesi arsitek yang didirikan secara resmi pada tanggal 17 September 1959 di Bandung. Kini di usianya yang ke-66, IAI telah beranggotakan lebih dari 26.000 arsitek yang terdaftar melalui 34 kepengurusan provinsi dan 1 kepengurusan perwakilan. IAI memiliki misi untuk mengembangkan profesi arsitektur di Indonesia, meningkatkan kualitas arsitek, dan berkontribusi dalam pembangunan lingkungan binaan yang berkelanjutan. IAI juga aktif dalam kegiatan internasional melalui keanggotaannya di ARCASIA (Architects Regional Council of Asia) sejak tahun 1972 dan di UIA (Union Internationale des Architectes) sejak tahun 1974.
 
 ---
 
