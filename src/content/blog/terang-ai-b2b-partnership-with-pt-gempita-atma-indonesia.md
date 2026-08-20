@@ -2,12 +2,12 @@
 title: 'Terang AI Tandatangani Kerjasama Klien Satu Tahun dengan PT Gempita Atma Indonesia'
 description: 'PT Terang Inovasi Indonesia (Terang AI) resmi menandatangani MoU dengan PT Gempita Atma Indonesia untuk kerjasama strategis selama satu tahun dalam menghadirkan solusi inovatif pendidikan berbasis AI'
 pubDate: 'Sep 26 2025'
-heroImage: 'https://blog.terang.ai/assets/1-post.png'
+heroImage: 'https://blog.terang.ai/assets/blog/terang-ai-partnership-gempita-atma-indonesia-mou-2025/hero.png'
 tags: ['Partnership', 'MoU', 'Strategic Collaboration', 'AI Education', 'Education Technology', 'Indonesia', 'Jakarta', 'Digital Transformation', 'Gempita Atma', 'B2B Partnership']
 keywords: 'Terang AI, PT Gempita Atma Indonesia, MoU, partnership, kerjasama strategis, AI education, teknologi pendidikan, transformasi digital, platform pembelajaran, kolaborasi B2B, Indonesia startup, education ecosystem'
 author: 'Terang AI Team'
 slug: 'terang-ai-partnership-gempita-atma-indonesia-mou-2025'
-canonicalURL: 'https://blog.terang.ai/assets/1-post.png'
+canonicalURL: 'https://blog.terang.ai/terang-ai-partnership-gempita-atma-indonesia-mou-2025'
 ogType: 'article'
 ogTitle: 'Terang AI Tandatangani Kerjasama Strategis dengan PT Gempita Atma Indonesia'
 ogDescription: 'Terang AI menandatangani MoU dengan PT Gempita Atma Indonesia untuk kerjasama selama satu tahun dalam mengembangkan solusi pendidikan AI yang inklusif dan berkelanjutan'
@@ -19,13 +19,13 @@ twitterDescription: 'Indonesian AI education startup Terang AI signs one-year st
 
 <div align="center">
 
-![B2B Partner](https://blog.terang.ai/assets/1-post.png)
+![B2B Partner](https://blog.terang.ai/assets/blog/terang-ai-partnership-gempita-atma-indonesia-mou-2025/hero.png)
 
 </div>
 
 <div align="center">
 
-![B2B Partner 2](https://blog.terang.ai/assets/2-post.png)
+![B2B Partner 2](https://blog.terang.ai/assets/blog/terang-ai-partnership-gempita-atma-indonesia-mou-2025/partnership-2.png)
 
 </div>
 
@@ -54,7 +54,7 @@ Terang AI (PT Terang Inovasi Indonesia) adalah perusahaan rintisan teknologi pen
 
 <div align="center">
 
-<img src="https://blog.terang.ai/assets/LOGO_FIX_GEMPITA.png" alt="PT GEMPITA ATMA Indonesia" width="200">
+<img src="https://blog.terang.ai/assets/blog/terang-ai-partnership-gempita-atma-indonesia-mou-2025/gempita-logo.png" alt="PT GEMPITA ATMA Indonesia" width="200">
 
 </div>
 

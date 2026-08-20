@@ -2,7 +2,7 @@
 title: 'Terang AI × Ikatan Arsitek Indonesia (IAI): Kerjasama Strategis Digitalisasi Sistem Pembinaan Arsitek'
 description: 'PT Terang Inovasi Indonesia (Terang AI) resmi menjalin kerjasama strategis selama dua tahun dengan Ikatan Arsitek Indonesia (IAI) untuk mendukung digitalisasi sistem pembinaan dan pengembangan keprofesian arsitek di Indonesia'
 pubDate: 'Nov 15 2025'
-heroImage: 'https://blog.terang.ai/assets/terang-ai-iai.jpeg'
+heroImage: 'https://blog.terang.ai/assets/blog/terang-ai-partnership-ikatan-arsitek-indonesia-iai-2025/hero.jpeg'
 tags: ['Partnership', 'Strategic Collaboration', 'AI Education', 'Architecture', 'Professional Development', 'Indonesia', 'Digital Transformation', 'IAI', 'B2B Partnership', 'EdTech']
 keywords: 'Terang AI, Ikatan Arsitek Indonesia, IAI, partnership, kerjasama strategis, digitalisasi, pembinaan arsitek, teknologi pendidikan, transformasi digital, platform pembelajaran arsitektur, Satu Data IAI, professional development, Indonesia startup'
 author: 'Terang AI Team'
@@ -19,13 +19,13 @@ twitterDescription: 'Indonesian AI education startup Terang AI signs two-year st
 
 <div align="center">
 
-![Terang AI × IAI Partnership](https://blog.terang.ai/assets/terang-ai-iai.jpeg)
+![Terang AI × IAI Partnership](https://blog.terang.ai/assets/blog/terang-ai-partnership-ikatan-arsitek-indonesia-iai-2025/hero.jpeg)
 
 </div>
 
 <div align="center">
 
-![Terang AI × IAI Partnership 2](https://blog.terang.ai/assets/terang-ai-iai-2.jpeg)
+![Terang AI × IAI Partnership 2](https://blog.terang.ai/assets/blog/terang-ai-partnership-ikatan-arsitek-indonesia-iai-2025/partnership-2.jpeg)
 
 </div>
 
@@ -62,7 +62,7 @@ Terang AI (PT Terang Inovasi Indonesia) adalah perusahaan rintisan teknologi pen
 
 <div align="center">
 
-<img src="https://blog.terang.ai/assets/IAI-Logo.png" alt="Ikatan Arsitek Indonesia" width="200">
+<img src="https://blog.terang.ai/assets/blog/terang-ai-partnership-ikatan-arsitek-indonesia-iai-2025/iai-logo.png" alt="Ikatan Arsitek Indonesia" width="200">
 
 </div>
 

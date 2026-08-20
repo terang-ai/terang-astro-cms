@@ -40,6 +40,34 @@ The `src/content/` directory contains "collections" of related Markdown and MDX 
 
 Any static assets, like images, can be placed in the `public/` directory.
 
+## ✍️ Blog content conventions
+
+Posts live in `src/content/blog/<slug>.md`. The filename is the route slug, so it should match the `slug`
+and `canonicalURL` fields in the frontmatter.
+
+### Images
+
+**New posts** keep their images in a folder named after the post:
+
+```text
+public/assets/blog/<post-slug>/
+├── hero.jpeg          # referenced by frontmatter `heroImage`
+├── stage.jpeg
+├── booth.jpeg
+└── presentation.jpeg
+```
+
+Reference them with absolute URLs, e.g.
+`https://blog.terang.ai/assets/blog/<post-slug>/hero.jpeg`.
+
+Source photos are usually oversized — downscale and convert to JPEG before committing
+(`sips -s format jpeg -s formatOptions 80 --resampleWidth 1600 in.png --out out.jpeg`).
+Aim for the hero to be landscape; the layout renders it at 1020×510.
+
+Older posts have been migrated to this layout too, but their images were **copied, not moved** — the
+original flat files under `public/assets/` are still there and still served, so any URL already indexed
+by search engines or shared on social keeps resolving. Do not delete those flat originals.
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
