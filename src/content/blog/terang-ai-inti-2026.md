@@ -2,7 +2,7 @@
 title: 'Terang AI Hadir di INTI 2026, Dorong Ekspansi Solusi AI dari Indonesia ke Pasar Global'
 description: 'Terang AI menjadi exhibitor di Indonesia Technology & Innovation (INTI) 2026 dan AI Xperience Summit Indonesia, memperkenalkan produk B2B berbasis AI kepada pelaku industri dari 20 negara di Asia.'
 pubDate: 'Aug 14 2026'
-heroImage: 'https://blog.terang.ai/assets/blog/terang-ai-inti-2026/hero.jpeg'
+heroImage: 'https://blog.terang.ai/assets/blog/terang-ai-inti-2026/hero.jpg'
 tags: ['INTI 2026', 'AI Xperience Summit Indonesia', 'Exhibition', 'B2B', 'AI Solutions', 'Learning Management System', 'AI Interview', 'Event Management', 'Indonesia', 'Global Expansion']
 keywords: 'INTI 2026, Indonesia Technology and Innovation, AI Xperience Summit Indonesia, Terang AI, exhibitor, Jiexpo Kemayoran, AI Learning Management System, AI Candidate Interview, AI Event Management, ekspansi global, startup AI Indonesia, Southeast Asia'
 author: 'Terang AI Team'
@@ -19,7 +19,7 @@ twitterDescription: 'Indonesian AI startup Terang AI exhibits at INTI 2026 and A
 
 <div align="center">
 
-![Tim Terang AI di INTI 2026](https://blog.terang.ai/assets/blog/terang-ai-inti-2026/hero.jpeg)
+![Tim Terang AI di INTI 2026](https://blog.terang.ai/assets/blog/terang-ai-inti-2026/team.jpeg)
 
 </div>
 
