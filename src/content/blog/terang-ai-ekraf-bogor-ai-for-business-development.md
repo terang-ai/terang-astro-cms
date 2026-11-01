@@ -1,5 +1,5 @@
 ---
-title: 'Bersama Ekraf, Terang AI Bekali Pelaku Ekonomi Kreatif Strategi Pemanfaatan AI untuk Bisnis'
+title: 'Bersama Ekraf, Terang AI Bekali Pelaku Ekonomi Kreatif Kota Bogor Strategi Pemanfaatan AI untuk Bisnis'
 description: 'Terang AI berbagi strategi pemanfaatan AI untuk produktivitas, riset pasar, dan pengembangan model bisnis dalam Creative Technology Future Talents Workshop bersama Kementerian Ekonomi Kreatif di Bogor.'
 pubDate: 'Oct 11 2026'
 heroImage: 'https://blog.terang.ai/assets/blog/terang-ai-ekraf-bogor-ai-for-business-development/hero.jpeg'
@@ -9,9 +9,9 @@ author: 'Terang AI Team'
 slug: 'terang-ai-ekraf-bogor-ai-for-business-development'
 canonicalURL: 'https://blog.terang.ai/blog/terang-ai-ekraf-bogor-ai-for-business-development/'
 ogType: 'article'
-ogTitle: 'Bersama Ekraf, Terang AI Bekali Pelaku Ekonomi Kreatif Strategi Pemanfaatan AI untuk Bisnis'
+ogTitle: 'Bersama Ekraf, Terang AI Bekali Pelaku Ekonomi Kreatif Kota Bogor Strategi Pemanfaatan AI untuk Bisnis'
 ogDescription: 'Terang AI membekali pelaku ekonomi kreatif di Bogor dengan strategi praktis pemanfaatan AI untuk produktivitas dan pengembangan bisnis secara bertanggung jawab.'
-twitterTitle: 'Terang AI × Ekraf Bogor: AI for Business Development'
+twitterTitle: 'Bersama Ekraf, Terang AI Bekali Pelaku Ekonomi Kreatif Kota Bogor Strategi Pemanfaatan AI untuk Bisnis'
 twitterDescription: 'Workshop bersama Kementerian Ekonomi Kreatif membahas prompting, Business Model Canvas, analisis ukuran pasar, serta etika dan keamanan penggunaan AI.'
 ---
 
